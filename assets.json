@@ -1,0 +1,60 @@
+{
+  "version": {
+    "1.0.89": {
+      "cn": {
+        "fileName": "cn.zip",
+        "md5": "aaf678ac86a9bab686d5d0b8bd265361",
+        "fileCount": 144,
+        "version": 1
+      },
+      "ja": {
+        "fileName": "ja.zip",
+        "md5": "179481df9ef9088e19680ac79ad6911c",
+        "fileCount": 121,
+        "version": 1
+      },
+      "kr": {
+        "fileName": "kr.zip",
+        "md5": "28b876d91bf6770af7975a70d86fcf2c",
+        "fileCount": 88,
+        "version": 1
+      },
+      "tc": {
+        "fileName": "tc.zip",
+        "md5": "0578e86e1e824dbaf9217452baa34a83",
+        "fileCount": 138,
+        "version": 1
+      },
+      "th": {
+        "fileName": "th.zip",
+        "md5": "ce3af07f237b079b5870c19244e9412a",
+        "fileCount": 496,
+        "version": 1
+      },
+      "vi": {
+        "fileName": "vi.zip",
+        "md5": "6cf216c474c29d1b836967b0afa0127b",
+        "fileCount": 472,
+        "version": 1
+      },
+      "en": {
+        "fileName": "en.zip",
+        "md5": "08c205819608fa2f9a982b92f46a27b7",
+        "fileCount": 123,
+        "version": 1
+      },
+      "common": {
+        "fileName": "common.zip",
+        "md5": "b739d555452193e70cfe0011bd75c7c5",
+        "fileCount": 901,
+        "version": 1
+      },
+      "domains": [
+        "https://baidu.net",
+        "https://jkxg.test2.klm123.net",
+        "https://tik.net"
+      ]
+    }
+  }
+}
+
