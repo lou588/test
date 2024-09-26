@@ -3,50 +3,50 @@
     "1.0.89": {
       "cn": {
         "fileName": "cn.zip",
-        "md5": "aaf678ac86a9bab686d5d0b8bd265361",
-        "fileCount": 144,
-        "version": 1,
-        "path": "assets"
+        "md5": "0e5b6fc476a846c5d4d32ba2bc370a24",
+        "fileCount": 168,
+        "path": "assets",
+        "version": 1
+      },
+      "en": {
+        "fileName": "en.zip",
+        "md5": "666b068112bdeefd58c76eafbd02fc10",
+        "fileCount": 145,
+        "path": "assets",
+        "version": 1
       },
       "ja": {
         "fileName": "ja.zip",
-        "md5": "179481df9ef9088e19680ac79ad6911c",
-        "fileCount": 121,
+        "md5": "12a55d1c52e96ece47ef8591b604baf2",
+        "fileCount": 142,
         "path": "assets",
         "version": 1
       },
       "kr": {
         "fileName": "kr.zip",
-        "md5": "28b876d91bf6770af7975a70d86fcf2c",
+        "md5": "50222d55a52a6395ec22289d99899130",
         "fileCount": 88,
         "path": "assets",
         "version": 1
       },
       "tc": {
         "fileName": "tc.zip",
-        "md5": "0578e86e1e824dbaf9217452baa34a83",
-        "fileCount": 138,
+        "md5": "b99e500f7ce5088f261c2fb02f75df24",
+        "fileCount": 185,
         "path": "assets",
         "version": 1
       },
       "th": {
         "fileName": "th.zip",
-        "md5": "ce3af07f237b079b5870c19244e9412a",
-        "fileCount": 496,
+        "md5": "d24034df5836369597fe913de5508c56",
+        "fileCount": 168,
         "path": "assets",
         "version": 1
       },
       "vi": {
         "fileName": "vi.zip",
-        "md5": "6cf216c474c29d1b836967b0afa0127b",
-        "fileCount": 472,
-        "path": "assets",
-        "version": 1
-      },
-      "en": {
-        "fileName": "en.zip",
-        "md5": "08c205819608fa2f9a982b92f46a27b7",
-        "fileCount": 123,
+        "md5": "4c0467450892d2a8c1af810c8565c964",
+        "fileCount": 166,
         "path": "assets",
         "version": 1
       },
