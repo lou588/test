@@ -1,1 +1,811 @@
-{"version":{"1.0.89":{"cn":{"fileName":"cn.zip","md5":"57e7bfc1b86b144b6cf4c595019035c0","fileCount":201,"path":"assets/cn","version":1},"common":{"fileName":"common.zip","md5":"1138950ab971517edf57dc8addcce6f8","fileCount":1932,"path":"assets/common","version":1},"en":{"fileName":"en.zip","md5":"b666cf2343c1fb7ba55e7e47dcc80bd3","fileCount":178,"path":"assets/en","version":1},"ja":{"fileName":"ja.zip","md5":"808bb8ba83e3763a8d0813cd4590575d","fileCount":175,"path":"assets/ja","version":1},"kr":{"fileName":"kr.zip","md5":"d390df6030812dbaea91b31a54b843f0","fileCount":96,"path":"assets/kr","version":1},"tc":{"fileName":"tc.zip","md5":"e301ce8075d7a71a8fd8db4d178a4564","fileCount":219,"path":"assets/tc","version":1},"th":{"fileName":"th.zip","md5":"944b92d3020b6670fd513265b3b7d802","fileCount":202,"path":"assets/th","version":1},"vi":{"fileName":"vi.zip","md5":"dbb5431d83b2593817b07d661025fdde","fileCount":199,"path":"assets/vi","version":1},"welcome_audio":{"fileName":"welcome_audio.zip","md5":"5df1aba0dc45ddd0a5882d457eb2a1f4","fileCount":113,"path":"assets/welcome_audio","version":1},"cn_andarbahar":{"fileName":"cn_andarbahar.zip","md5":"37272638945d696bdd20519d0062de5c","fileCount":3,"path":"assets/cn/audio/andarbahar","version":1},"cn_blackjack":{"fileName":"cn_blackjack.zip","md5":"933556a4ad12028dbecf699e36052ae7","fileCount":47,"path":"assets/cn/audio/blackjack","version":1},"cn_bull_fight":{"fileName":"cn_bull_fight.zip","md5":"ea74322b2d479e4cc0c00f02955a17dc","fileCount":18,"path":"assets/cn/audio/bull_fight","version":1},"cn_colordisc":{"fileName":"cn_colordisc.zip","md5":"3fc713f499748df8c5d9867d4685097e","fileCount":10,"path":"assets/cn/audio/colordisc","version":1},"cn_dolly":{"fileName":"cn_dolly.zip","md5":"6a89cb92da895dc7a602224311798a74","fileCount":25,"path":"assets/cn/audio/dolly","version":1},"cn_dragon_tiger":{"fileName":"cn_dragon_tiger.zip","md5":"d7f5ffa13e1756a9a903eddbc3b5dcc1","fileCount":19,"path":"assets/cn/audio/dragon_tiger","version":1},"cn_fantan":{"fileName":"cn_fantan.zip","md5":"b9f8277f197cf68634db3d101636315a","fileCount":12,"path":"assets/cn/audio/fantan","version":1},"cn_game3d":{"fileName":"cn_game3d.zip","md5":"f7a2667f05e83ef6a94a50ad19849d08","fileCount":10,"path":"assets/cn/audio/game3d","version":1},"cn_game5d":{"fileName":"cn_game5d.zip","md5":"f7a2667f05e83ef6a94a50ad19849d08","fileCount":10,"path":"assets/cn/audio/game5d","version":1},"cn_india_threecards":{"fileName":"cn_india_threecards.zip","md5":"cfb6fa8d982f3e00c858dd5152c53d99","fileCount":14,"path":"assets/cn/audio/india_threecards","version":1},"cn_marksix":{"fileName":"cn_marksix.zip","md5":"dab76cbeba79c7363cc9a9926e3bff90","fileCount":56,"path":"assets/cn/audio/marksix","version":1},"cn_paigow":{"fileName":"cn_paigow.zip","md5":"6f4810617ae96db42bde26b5ea44a16c","fileCount":6,"path":"assets/cn/audio/paigow","version":1},"cn_roulette":{"fileName":"cn_roulette.zip","md5":"01d768fb2bd29a822a5b82a9f34d3f32","fileCount":49,"path":"assets/cn/audio/roulette","version":1},"cn_sicbo":{"fileName":"cn_sicbo.zip","md5":"392e56387f414961f24be509edd9cc6c","fileCount":29,"path":"assets/cn/audio/sicbo","version":1},"cn_texas_poker":{"fileName":"cn_texas_poker.zip","md5":"79c5b4e5c91a126089f80c7f1e705fb1","fileCount":16,"path":"assets/cn/audio/texas_poker","version":1},"cn_three_trumps":{"fileName":"cn_three_trumps.zip","md5":"07aaf54b520a083b34555237ecd1681a","fileCount":24,"path":"assets/cn/audio/three_trumps","version":1},"cn_win_three_cards":{"fileName":"cn_win_three_cards.zip","md5":"2d2d6e87fd4c8d5e88d4d7d0564f1c8d","fileCount":37,"path":"assets/cn/audio/win_three_cards","version":1},"en_andarbahar":{"fileName":"en_andarbahar.zip","md5":"5c971d3cf196bf2cd316637c9f4cc2c3","fileCount":2,"path":"assets/en/audio/andarbahar","version":1},"en_blackjack":{"fileName":"en_blackjack.zip","md5":"d95ef6763e0f986bf87b525a73f71511","fileCount":47,"path":"assets/en/audio/blackjack","version":1},"en_bull_fight":{"fileName":"en_bull_fight.zip","md5":"2059e39da98f16e1e5c610a3a0d036b0","fileCount":18,"path":"assets/en/audio/bull_fight","version":1},"en_colordisc":{"fileName":"en_colordisc.zip","md5":"7feacbbca8f1710113135c85ff15857c","fileCount":10,"path":"assets/en/audio/colordisc","version":1},"en_dolly":{"fileName":"en_dolly.zip","md5":"fdf1d97f83f656de2ef707f4f8ae652e","fileCount":24,"path":"assets/en/audio/dolly","version":1},"en_dragon_tiger":{"fileName":"en_dragon_tiger.zip","md5":"7d5d84d4a5a3f0d47cfba9bae7574ba4","fileCount":19,"path":"assets/en/audio/dragon_tiger","version":1},"en_fantan":{"fileName":"en_fantan.zip","md5":"587126459d54382c83ddb437a2ff4955","fileCount":12,"path":"assets/en/audio/fantan","version":1},"en_game3d":{"fileName":"en_game3d.zip","md5":"11fa14d0fd6b24ca188031eb12c10e51","fileCount":10,"path":"assets/en/audio/game3d","version":1},"en_game5d":{"fileName":"en_game5d.zip","md5":"11fa14d0fd6b24ca188031eb12c10e51","fileCount":10,"path":"assets/en/audio/game5d","version":1},"en_india_threecards":{"fileName":"en_india_threecards.zip","md5":"d40410cd9c21a771bc38376f9cebc707","fileCount":14,"path":"assets/en/audio/india_threecards","version":1},"en_marksix":{"fileName":"en_marksix.zip","md5":"6a8a341fc841b7c116a141a5604267c0","fileCount":55,"path":"assets/en/audio/marksix","version":1},"en_paigow":{"fileName":"en_paigow.zip","md5":"b1206fbd2870f08dedaae7bf52b97890","fileCount":6,"path":"assets/en/audio/paigow","version":1},"en_roulette":{"fileName":"en_roulette.zip","md5":"c428a88622dc716b49b2ad92851aeb8e","fileCount":50,"path":"assets/en/audio/roulette","version":1},"en_sicbo":{"fileName":"en_sicbo.zip","md5":"92b918b2eef639adb46a856b208175cc","fileCount":29,"path":"assets/en/audio/sicbo","version":1},"en_texas_poker":{"fileName":"en_texas_poker.zip","md5":"9532103148b0c5f329f8347af05b1f7e","fileCount":16,"path":"assets/en/audio/texas_poker","version":1},"en_three_trumps":{"fileName":"en_three_trumps.zip","md5":"a50bec5c30b35021e8451e1616cb7fbd","fileCount":24,"path":"assets/en/audio/three_trumps","version":1},"en_win_three_cards":{"fileName":"en_win_three_cards.zip","md5":"67fbb7b6d85b713c919db3453202fb05","fileCount":37,"path":"assets/en/audio/win_three_cards","version":1},"ja_andarbahar":{"fileName":"ja_andarbahar.zip","md5":"731589f78ba71a57e25266c21448667a","fileCount":2,"path":"assets/ja/audio/andarbahar","version":1},"ja_blackjack":{"fileName":"ja_blackjack.zip","md5":"0aaa59df1bf4b9b4e7f4ac58773c18f8","fileCount":23,"path":"assets/ja/audio/blackjack","version":1},"ja_bull_fight":{"fileName":"ja_bull_fight.zip","md5":"1252df452c2f81900c8310f50a1eb142","fileCount":18,"path":"assets/ja/audio/bull_fight","version":1},"ja_colordisc":{"fileName":"ja_colordisc.zip","md5":"91c08cca0ccad0899c714af6647602e2","fileCount":10,"path":"assets/ja/audio/colordisc","version":1},"ja_dolly":{"fileName":"ja_dolly.zip","md5":"7550e9a80eb4069feac915c7cdbb54af","fileCount":25,"path":"assets/ja/audio/dolly","version":1},"ja_dragon_tiger":{"fileName":"ja_dragon_tiger.zip","md5":"87ca5e162bc34670bac24422bf1780a6","fileCount":19,"path":"assets/ja/audio/dragon_tiger","version":1},"ja_fantan":{"fileName":"ja_fantan.zip","md5":"4f31cb55d02101046e64e90784712791","fileCount":12,"path":"assets/ja/audio/fantan","version":1},"ja_game3d":{"fileName":"ja_game3d.zip","md5":"d73528ad5f64297ebf578d5b898fe644","fileCount":10,"path":"assets/ja/audio/game3d","version":1},"ja_game5d":{"fileName":"ja_game5d.zip","md5":"d73528ad5f64297ebf578d5b898fe644","fileCount":10,"path":"assets/ja/audio/game5d","version":1},"ja_india_threecards":{"fileName":"ja_india_threecards.zip","md5":"96eff5afbe650fc008aa970c6d34e220","fileCount":14,"path":"assets/ja/audio/india_threecards","version":1},"ja_marksix":{"fileName":"ja_marksix.zip","md5":"8adabf9223ce9f7125cd12af3c538583","fileCount":55,"path":"assets/ja/audio/marksix","version":1},"ja_paigow":{"fileName":"ja_paigow.zip","md5":"9743c9c7e518eb02b37ee2b219f70177","fileCount":6,"path":"assets/ja/audio/paigow","version":1},"ja_roulette":{"fileName":"ja_roulette.zip","md5":"e654011620301fea9587a5db77c75d5a","fileCount":49,"path":"assets/ja/audio/roulette","version":1},"ja_sicbo":{"fileName":"ja_sicbo.zip","md5":"a827fa79017454917f030e185dfd7d66","fileCount":28,"path":"assets/ja/audio/sicbo","version":1},"ja_texas_poker":{"fileName":"ja_texas_poker.zip","md5":"929dfe2da7b234547036042d0f2cc9c3","fileCount":16,"path":"assets/ja/audio/texas_poker","version":1},"ja_three_trumps":{"fileName":"ja_three_trumps.zip","md5":"e3008bc25d7cc906937315cd84cab049","fileCount":26,"path":"assets/ja/audio/three_trumps","version":1},"ja_win_three_cards":{"fileName":"ja_win_three_cards.zip","md5":"5965833a6b186d78fdaf673979d8d35d","fileCount":38,"path":"assets/ja/audio/win_three_cards","version":1},"tc_andarbahar":{"fileName":"tc_andarbahar.zip","md5":"fe0ceb2be3748cdeb948a4094cb85587","fileCount":2,"path":"assets/tc/audio/andarbahar","version":1},"tc_blackjack":{"fileName":"tc_blackjack.zip","md5":"8270ae544952a794c319f800535ad0f3","fileCount":47,"path":"assets/tc/audio/blackjack","version":1},"tc_bull_fight":{"fileName":"tc_bull_fight.zip","md5":"062da4a892214e5568d372bf19704d02","fileCount":18,"path":"assets/tc/audio/bull_fight","version":1},"tc_colordisc":{"fileName":"tc_colordisc.zip","md5":"5dedc3318f194131eea098ee93020ca4","fileCount":10,"path":"assets/tc/audio/colordisc","version":1},"tc_dolly":{"fileName":"tc_dolly.zip","md5":"96d534f3e9ac9765841a86715c28299b","fileCount":25,"path":"assets/tc/audio/dolly","version":1},"tc_dragon_tiger":{"fileName":"tc_dragon_tiger.zip","md5":"c59e1cd794973b91e056fc3e5f76e811","fileCount":19,"path":"assets/tc/audio/dragon_tiger","version":1},"tc_fantan":{"fileName":"tc_fantan.zip","md5":"61ec7eb431d383d1ab02ac8ea7b5b66b","fileCount":12,"path":"assets/tc/audio/fantan","version":1},"tc_game3d":{"fileName":"tc_game3d.zip","md5":"c8f3aca1729c448758d4fde2e8f58684","fileCount":10,"path":"assets/tc/audio/game3d","version":1},"tc_game5d":{"fileName":"tc_game5d.zip","md5":"c8f3aca1729c448758d4fde2e8f58684","fileCount":10,"path":"assets/tc/audio/game5d","version":1},"tc_india_threecards":{"fileName":"tc_india_threecards.zip","md5":"0d2a94084106ae9469b353d342551286","fileCount":14,"path":"assets/tc/audio/india_threecards","version":1},"tc_marksix":{"fileName":"tc_marksix.zip","md5":"2b3fdafceb07e61555e45c72d2757831","fileCount":45,"path":"assets/tc/audio/marksix","version":1},"tc_paigow":{"fileName":"tc_paigow.zip","md5":"10514811a0b9b4de77a98fd37cdf7572","fileCount":6,"path":"assets/tc/audio/paigow","version":1},"tc_roulette":{"fileName":"tc_roulette.zip","md5":"0f62036706c240abf672893c6c65c351","fileCount":49,"path":"assets/tc/audio/roulette","version":1},"tc_sicbo":{"fileName":"tc_sicbo.zip","md5":"48d65dfe6ab476e8b226c0c846ebdf3f","fileCount":29,"path":"assets/tc/audio/sicbo","version":1},"tc_texas_poker":{"fileName":"tc_texas_poker.zip","md5":"d7442986b5f4877f2475331c33cbef23","fileCount":16,"path":"assets/tc/audio/texas_poker","version":1},"tc_three_trumps":{"fileName":"tc_three_trumps.zip","md5":"0ee80ad38cfc7b67d7020dee536e7169","fileCount":24,"path":"assets/tc/audio/three_trumps","version":1},"tc_win_three_cards":{"fileName":"tc_win_three_cards.zip","md5":"702e11db61076b690b24d6d0cfd09682","fileCount":37,"path":"assets/tc/audio/win_three_cards","version":1},"th_andarbahar":{"fileName":"th_andarbahar.zip","md5":"edccc2244960bc786821ba61e786c700","fileCount":2,"path":"assets/th/audio/andarbahar","version":1},"th_blackjack":{"fileName":"th_blackjack.zip","md5":"aaf4724607cbce7ad73bc5473d268dfb","fileCount":47,"path":"assets/th/audio/blackjack","version":1},"th_bull_fight":{"fileName":"th_bull_fight.zip","md5":"ef43d9eea6bbf4338fd1dc18f4153aac","fileCount":18,"path":"assets/th/audio/bull_fight","version":1},"th_colordisc":{"fileName":"th_colordisc.zip","md5":"72848a52d94d9e2b3dea53d5cf5e02ef","fileCount":10,"path":"assets/th/audio/colordisc","version":1},"th_dolly":{"fileName":"th_dolly.zip","md5":"91c3da516dacdeff5cd4e7ccc6bb4857","fileCount":25,"path":"assets/th/audio/dolly","version":1},"th_dragon_tiger":{"fileName":"th_dragon_tiger.zip","md5":"d26ab558bc1040c823dd8906c6f48965","fileCount":19,"path":"assets/th/audio/dragon_tiger","version":1},"th_fantan":{"fileName":"th_fantan.zip","md5":"55e9fde98f987365a32d15d6c9f6cb1d","fileCount":12,"path":"assets/th/audio/fantan","version":1},"th_game3d":{"fileName":"th_game3d.zip","md5":"eddb1536c492a32d1030270fdcec6639","fileCount":10,"path":"assets/th/audio/game3d","version":1},"th_game5d":{"fileName":"th_game5d.zip","md5":"7ea2b15127c51947ce3c8049e53e370b","fileCount":10,"path":"assets/th/audio/game5d","version":1},"th_india_threecards":{"fileName":"th_india_threecards.zip","md5":"e2b9b577d50b84208e576cc54db502c0","fileCount":14,"path":"assets/th/audio/india_threecards","version":1},"th_marksix":{"fileName":"th_marksix.zip","md5":"5cf55bea51ec27e6d271a4e51dff53a4","fileCount":55,"path":"assets/th/audio/marksix","version":1},"th_paigow":{"fileName":"th_paigow.zip","md5":"45f2473df47de32a38ef253793b88bf0","fileCount":6,"path":"assets/th/audio/paigow","version":1},"th_roulette":{"fileName":"th_roulette.zip","md5":"1a2250e0dca41daccb97685cca5df5b7","fileCount":49,"path":"assets/th/audio/roulette","version":1},"th_sicbo":{"fileName":"th_sicbo.zip","md5":"df4862d2444d8d5a4feb7d77fbee8a64","fileCount":29,"path":"assets/th/audio/sicbo","version":1},"th_texas_poker":{"fileName":"th_texas_poker.zip","md5":"86166693cc981a0943524bef9880be56","fileCount":16,"path":"assets/th/audio/texas_poker","version":1},"th_three_trumps":{"fileName":"th_three_trumps.zip","md5":"c646e7a3ad268fefbf557dfb27f02919","fileCount":24,"path":"assets/th/audio/three_trumps","version":1},"th_win_three_cards":{"fileName":"th_win_three_cards.zip","md5":"a33bcf66805a4f0ea92cfff46d81186f","fileCount":37,"path":"assets/th/audio/win_three_cards","version":1},"vi_andarbahar":{"fileName":"vi_andarbahar.zip","md5":"fea995e9967f42daf5b920831a5374cb","fileCount":2,"path":"assets/vi/audio/andarbahar","version":1},"vi_blackjack":{"fileName":"vi_blackjack.zip","md5":"3284f519493b853efddb4f83415b684b","fileCount":47,"path":"assets/vi/audio/blackjack","version":1},"vi_bull_fight":{"fileName":"vi_bull_fight.zip","md5":"33cf047f850c9e55b30232d2296974c5","fileCount":18,"path":"assets/vi/audio/bull_fight","version":1},"vi_colordisc":{"fileName":"vi_colordisc.zip","md5":"1c9c46aec120012e0c27d257136f56d3","fileCount":10,"path":"assets/vi/audio/colordisc","version":1},"vi_dolly":{"fileName":"vi_dolly.zip","md5":"bd4c94a12a86738889fa638715803682","fileCount":25,"path":"assets/vi/audio/dolly","version":1},"vi_dragon_tiger":{"fileName":"vi_dragon_tiger.zip","md5":"3ab3c73bdb9adcef7682b9abfaff9a2f","fileCount":19,"path":"assets/vi/audio/dragon_tiger","version":1},"vi_fantan":{"fileName":"vi_fantan.zip","md5":"a97945157ababb7002b28e1770b70b37","fileCount":12,"path":"assets/vi/audio/fantan","version":1},"vi_game3d":{"fileName":"vi_game3d.zip","md5":"7abc43265cf2ddb695ea4086bfa610e7","fileCount":10,"path":"assets/vi/audio/game3d","version":1},"vi_game5d":{"fileName":"vi_game5d.zip","md5":"7abc43265cf2ddb695ea4086bfa610e7","fileCount":10,"path":"assets/vi/audio/game5d","version":1},"vi_india_threecards":{"fileName":"vi_india_threecards.zip","md5":"126fde2455fec7e7828e391a3fc6e982","fileCount":14,"path":"assets/vi/audio/india_threecards","version":1},"vi_marksix":{"fileName":"vi_marksix.zip","md5":"132e56f3d9cf7bf436c5a4796fc1c9e7","fileCount":55,"path":"assets/vi/audio/marksix","version":1},"vi_paigow":{"fileName":"vi_paigow.zip","md5":"45db7cfef3c67cf4496c35a8a6f40d27","fileCount":6,"path":"assets/vi/audio/paigow","version":1},"vi_roulette":{"fileName":"vi_roulette.zip","md5":"f7139ba4d18a179a780dbc1c33b1815a","fileCount":26,"path":"assets/vi/audio/roulette","version":1},"vi_sicbo":{"fileName":"vi_sicbo.zip","md5":"f763d9332481684077025aed9b1d69f2","fileCount":29,"path":"assets/vi/audio/sicbo","version":1},"vi_texas_poker":{"fileName":"vi_texas_poker.zip","md5":"df10b30d9204ff577cc3d974a4b31749","fileCount":16,"path":"assets/vi/audio/texas_poker","version":1},"vi_three_trumps":{"fileName":"vi_three_trumps.zip","md5":"52d9e76f94984a341c10aa196ab09c75","fileCount":24,"path":"assets/vi/audio/three_trumps","version":1},"vi_win_three_cards":{"fileName":"vi_win_three_cards.zip","md5":"0dcf9e2993fba5ee21753e9ac222c200","fileCount":38,"path":"assets/vi/audio/win_three_cards","version":1},"font":{"fileName":"font.zip","md5":"ccb1ee3682913f8127ba48f5982f287f","fileCount":1,"path":"assets/common/font","version":1},"gift":{"fileName":"gift.zip","md5":"a8f7a3f8592d2b49e17e1d6230b559ff","fileCount":20,"path":"assets/common/gift","version":1},"image":{"fileName":"image.zip","md5":"ffa3eeebb9e88d0657eec5b3eaae8cb3","fileCount":1520,"path":"assets/common/image","version":1},"lottie":{"fileName":"lottie.zip","md5":"769dadc4a1bf0d9171f4baa792b213bd","fileCount":411,"path":"assets/common/lottie","version":1}}}}
+{
+  "version": {
+    "1.0.89": {
+      "cn": {
+        "fileName": "cn.zip",
+        "md5": "db212456fa178eab67c4622dcef2416c",
+        "fileCount": 205,
+        "path": "assets/cn",
+        "version": 1
+      },
+      "common": {
+        "fileName": "common.zip",
+        "md5": "4a1fad0f1c1d19c5f72072df3fb8d2ea",
+        "fileCount": 1964,
+        "path": "assets/common",
+        "version": 1
+      },
+      "en": {
+        "fileName": "en.zip",
+        "md5": "8a7021defd8bedf7e1d99fd3203a095c",
+        "fileCount": 182,
+        "path": "assets/en",
+        "version": 1
+      },
+      "ja": {
+        "fileName": "ja.zip",
+        "md5": "5c6dcc1ea449c675bcc68c25a90020d7",
+        "fileCount": 179,
+        "path": "assets/ja",
+        "version": 1
+      },
+      "kr": {
+        "fileName": "kr.zip",
+        "md5": "f92a811a4a8682c825f3ec5b244204a8",
+        "fileCount": 100,
+        "path": "assets/kr",
+        "version": 1
+      },
+      "tc": {
+        "fileName": "tc.zip",
+        "md5": "0de47ba8e6e4a9ef82c92e24079c5fee",
+        "fileCount": 223,
+        "path": "assets/tc",
+        "version": 1
+      },
+      "th": {
+        "fileName": "th.zip",
+        "md5": "9a11e1099321ac1a20c5a0a26003c106",
+        "fileCount": 206,
+        "path": "assets/th",
+        "version": 1
+      },
+      "vi": {
+        "fileName": "vi.zip",
+        "md5": "723bfcaf8efb98252a88285e8d002fd9",
+        "fileCount": 203,
+        "path": "assets/vi",
+        "version": 1
+      },
+      "welcome_audio": {
+        "fileName": "welcome_audio.zip",
+        "md5": "682d748f62a9820896cb45a25ffceaa6",
+        "fileCount": 113,
+        "path": "assets/welcome_audio",
+        "version": 1
+      },
+      "cn_andarbahar": {
+        "fileName": "cn_andarbahar.zip",
+        "md5": "68c35bf73bfdc9613ac2c9c6ee423978",
+        "fileCount": 3,
+        "path": "assets/cn/audio/andarbahar",
+        "version": 1
+      },
+      "cn_blackjack": {
+        "fileName": "cn_blackjack.zip",
+        "md5": "bbed7bac022bbeaab5060ffe186e7e6a",
+        "fileCount": 47,
+        "path": "assets/cn/audio/blackjack",
+        "version": 1
+      },
+      "cn_bull_fight": {
+        "fileName": "cn_bull_fight.zip",
+        "md5": "7a51bad617a37f581a35ad0468419d0c",
+        "fileCount": 18,
+        "path": "assets/cn/audio/bull_fight",
+        "version": 1
+      },
+      "cn_colordisc": {
+        "fileName": "cn_colordisc.zip",
+        "md5": "77ba6e02fdcb8179a2f9ac18092f9063",
+        "fileCount": 10,
+        "path": "assets/cn/audio/colordisc",
+        "version": 1
+      },
+      "cn_dolly": {
+        "fileName": "cn_dolly.zip",
+        "md5": "332d55c6a3b00920e303e8b5154a27d4",
+        "fileCount": 25,
+        "path": "assets/cn/audio/dolly",
+        "version": 1
+      },
+      "cn_dragon_tiger": {
+        "fileName": "cn_dragon_tiger.zip",
+        "md5": "387df6b5b08e87d58e028a896d85c52e",
+        "fileCount": 19,
+        "path": "assets/cn/audio/dragon_tiger",
+        "version": 1
+      },
+      "cn_fantan": {
+        "fileName": "cn_fantan.zip",
+        "md5": "9de353a28a7ad7f1f306ddbdce6ec827",
+        "fileCount": 12,
+        "path": "assets/cn/audio/fantan",
+        "version": 1
+      },
+      "cn_game3d": {
+        "fileName": "cn_game3d.zip",
+        "md5": "9efcdc84d84f246047e51c07d967b5e1",
+        "fileCount": 10,
+        "path": "assets/cn/audio/game3d",
+        "version": 1
+      },
+      "cn_game5d": {
+        "fileName": "cn_game5d.zip",
+        "md5": "9efcdc84d84f246047e51c07d967b5e1",
+        "fileCount": 10,
+        "path": "assets/cn/audio/game5d",
+        "version": 1
+      },
+      "cn_india_threecards": {
+        "fileName": "cn_india_threecards.zip",
+        "md5": "1c164af40fa2d71e876f4675473f8d8a",
+        "fileCount": 14,
+        "path": "assets/cn/audio/india_threecards",
+        "version": 1
+      },
+      "cn_marksix": {
+        "fileName": "cn_marksix.zip",
+        "md5": "5392278f7a4c2ba41089fb9a3299aedc",
+        "fileCount": 56,
+        "path": "assets/cn/audio/marksix",
+        "version": 1
+      },
+      "cn_paigow": {
+        "fileName": "cn_paigow.zip",
+        "md5": "8b99757c13a74cc6b0f429a226fb4072",
+        "fileCount": 6,
+        "path": "assets/cn/audio/paigow",
+        "version": 1
+      },
+      "cn_roulette": {
+        "fileName": "cn_roulette.zip",
+        "md5": "e0f4149336be4dfcc30b6671e1a00d72",
+        "fileCount": 49,
+        "path": "assets/cn/audio/roulette",
+        "version": 1
+      },
+      "cn_sicbo": {
+        "fileName": "cn_sicbo.zip",
+        "md5": "efda827202d95cc2172c93ead72c973e",
+        "fileCount": 29,
+        "path": "assets/cn/audio/sicbo",
+        "version": 1
+      },
+      "cn_texas_poker": {
+        "fileName": "cn_texas_poker.zip",
+        "md5": "538cab04cabb2ed06f5a127492097eed",
+        "fileCount": 16,
+        "path": "assets/cn/audio/texas_poker",
+        "version": 1
+      },
+      "cn_three_trumps": {
+        "fileName": "cn_three_trumps.zip",
+        "md5": "b8583fcf2de5da1e743e06d3888dc1e9",
+        "fileCount": 24,
+        "path": "assets/cn/audio/three_trumps",
+        "version": 1
+      },
+      "cn_win_three_cards": {
+        "fileName": "cn_win_three_cards.zip",
+        "md5": "94ef3d04fdafd5ce672765476bcf3799",
+        "fileCount": 37,
+        "path": "assets/cn/audio/win_three_cards",
+        "version": 1
+      },
+      "en_andarbahar": {
+        "fileName": "en_andarbahar.zip",
+        "md5": "5672ecc8ef45e77a16d71ee4f6117caa",
+        "fileCount": 2,
+        "path": "assets/en/audio/andarbahar",
+        "version": 1
+      },
+      "en_blackjack": {
+        "fileName": "en_blackjack.zip",
+        "md5": "07623eb68abd884325b3954e4118e237",
+        "fileCount": 47,
+        "path": "assets/en/audio/blackjack",
+        "version": 1
+      },
+      "en_bull_fight": {
+        "fileName": "en_bull_fight.zip",
+        "md5": "0d5672bcfad78e24c1b8df9cc143cfb3",
+        "fileCount": 18,
+        "path": "assets/en/audio/bull_fight",
+        "version": 1
+      },
+      "en_colordisc": {
+        "fileName": "en_colordisc.zip",
+        "md5": "136531bf0c3b44067bfa078724ae56a9",
+        "fileCount": 10,
+        "path": "assets/en/audio/colordisc",
+        "version": 1
+      },
+      "en_dolly": {
+        "fileName": "en_dolly.zip",
+        "md5": "8672d218727e27d1fc23de8ab9ec13e1",
+        "fileCount": 24,
+        "path": "assets/en/audio/dolly",
+        "version": 1
+      },
+      "en_dragon_tiger": {
+        "fileName": "en_dragon_tiger.zip",
+        "md5": "a62cd01fba64fc7f99ae55e4ffd19a82",
+        "fileCount": 19,
+        "path": "assets/en/audio/dragon_tiger",
+        "version": 1
+      },
+      "en_fantan": {
+        "fileName": "en_fantan.zip",
+        "md5": "3d5ba5cae140c22ab277fa51237b2b93",
+        "fileCount": 12,
+        "path": "assets/en/audio/fantan",
+        "version": 1
+      },
+      "en_game3d": {
+        "fileName": "en_game3d.zip",
+        "md5": "710f24df184ddc89a32fdae0877d5066",
+        "fileCount": 10,
+        "path": "assets/en/audio/game3d",
+        "version": 1
+      },
+      "en_game5d": {
+        "fileName": "en_game5d.zip",
+        "md5": "710f24df184ddc89a32fdae0877d5066",
+        "fileCount": 10,
+        "path": "assets/en/audio/game5d",
+        "version": 1
+      },
+      "en_india_threecards": {
+        "fileName": "en_india_threecards.zip",
+        "md5": "d52ac3ecbe57edd22c68beb6d2ebbd17",
+        "fileCount": 14,
+        "path": "assets/en/audio/india_threecards",
+        "version": 1
+      },
+      "en_marksix": {
+        "fileName": "en_marksix.zip",
+        "md5": "0f7a6b1bc62eaf6a41c1fe90bdd84241",
+        "fileCount": 55,
+        "path": "assets/en/audio/marksix",
+        "version": 1
+      },
+      "en_paigow": {
+        "fileName": "en_paigow.zip",
+        "md5": "eca941311768bc408d0e0f1328369fa0",
+        "fileCount": 6,
+        "path": "assets/en/audio/paigow",
+        "version": 1
+      },
+      "en_roulette": {
+        "fileName": "en_roulette.zip",
+        "md5": "97ed69f86008081e59eaa03c4125eea1",
+        "fileCount": 50,
+        "path": "assets/en/audio/roulette",
+        "version": 1
+      },
+      "en_sicbo": {
+        "fileName": "en_sicbo.zip",
+        "md5": "28006f6ea8b9eb082cec89a1e16aad17",
+        "fileCount": 29,
+        "path": "assets/en/audio/sicbo",
+        "version": 1
+      },
+      "en_texas_poker": {
+        "fileName": "en_texas_poker.zip",
+        "md5": "1878dd04ad1f678631ce706a2ab3fb09",
+        "fileCount": 16,
+        "path": "assets/en/audio/texas_poker",
+        "version": 1
+      },
+      "en_three_trumps": {
+        "fileName": "en_three_trumps.zip",
+        "md5": "db33f78b00eb9246dd9cc6e5844070b0",
+        "fileCount": 24,
+        "path": "assets/en/audio/three_trumps",
+        "version": 1
+      },
+      "en_win_three_cards": {
+        "fileName": "en_win_three_cards.zip",
+        "md5": "9289c9e17644600d3ebb50cf15b5659e",
+        "fileCount": 37,
+        "path": "assets/en/audio/win_three_cards",
+        "version": 1
+      },
+      "ja_andarbahar": {
+        "fileName": "ja_andarbahar.zip",
+        "md5": "01c998a3d786bf24707747045f37262b",
+        "fileCount": 2,
+        "path": "assets/ja/audio/andarbahar",
+        "version": 1
+      },
+      "ja_blackjack": {
+        "fileName": "ja_blackjack.zip",
+        "md5": "e30f74e945a3af225abcc936fdee8690",
+        "fileCount": 23,
+        "path": "assets/ja/audio/blackjack",
+        "version": 1
+      },
+      "ja_bull_fight": {
+        "fileName": "ja_bull_fight.zip",
+        "md5": "9f6b690232d8de2ef922e53f331d557f",
+        "fileCount": 18,
+        "path": "assets/ja/audio/bull_fight",
+        "version": 1
+      },
+      "ja_colordisc": {
+        "fileName": "ja_colordisc.zip",
+        "md5": "256499a87b1d79e5549a712bbd550484",
+        "fileCount": 10,
+        "path": "assets/ja/audio/colordisc",
+        "version": 1
+      },
+      "ja_dolly": {
+        "fileName": "ja_dolly.zip",
+        "md5": "23a0708624b93e3d820093e2ac030155",
+        "fileCount": 25,
+        "path": "assets/ja/audio/dolly",
+        "version": 1
+      },
+      "ja_dragon_tiger": {
+        "fileName": "ja_dragon_tiger.zip",
+        "md5": "428962ee7070632740f9e829a5fba765",
+        "fileCount": 19,
+        "path": "assets/ja/audio/dragon_tiger",
+        "version": 1
+      },
+      "ja_fantan": {
+        "fileName": "ja_fantan.zip",
+        "md5": "16d8159c49c762d6b0c34d8c28e30019",
+        "fileCount": 12,
+        "path": "assets/ja/audio/fantan",
+        "version": 1
+      },
+      "ja_game3d": {
+        "fileName": "ja_game3d.zip",
+        "md5": "334f7066562c62f1914753f247db91e4",
+        "fileCount": 10,
+        "path": "assets/ja/audio/game3d",
+        "version": 1
+      },
+      "ja_game5d": {
+        "fileName": "ja_game5d.zip",
+        "md5": "334f7066562c62f1914753f247db91e4",
+        "fileCount": 10,
+        "path": "assets/ja/audio/game5d",
+        "version": 1
+      },
+      "ja_india_threecards": {
+        "fileName": "ja_india_threecards.zip",
+        "md5": "81f81c065dfa2165c0a7d226246b5546",
+        "fileCount": 14,
+        "path": "assets/ja/audio/india_threecards",
+        "version": 1
+      },
+      "ja_marksix": {
+        "fileName": "ja_marksix.zip",
+        "md5": "8e36aede0d944f8ca6e8ba993dba2a69",
+        "fileCount": 55,
+        "path": "assets/ja/audio/marksix",
+        "version": 1
+      },
+      "ja_paigow": {
+        "fileName": "ja_paigow.zip",
+        "md5": "4e6ee3406144388e5378d2c6289e1a84",
+        "fileCount": 6,
+        "path": "assets/ja/audio/paigow",
+        "version": 1
+      },
+      "ja_roulette": {
+        "fileName": "ja_roulette.zip",
+        "md5": "c748620959ef78aada9c079291d1be41",
+        "fileCount": 49,
+        "path": "assets/ja/audio/roulette",
+        "version": 1
+      },
+      "ja_sicbo": {
+        "fileName": "ja_sicbo.zip",
+        "md5": "0144d197e0626915cabba3a72c00fa7f",
+        "fileCount": 28,
+        "path": "assets/ja/audio/sicbo",
+        "version": 1
+      },
+      "ja_texas_poker": {
+        "fileName": "ja_texas_poker.zip",
+        "md5": "4c62087bbc23061a10b9ade5fd7d438d",
+        "fileCount": 16,
+        "path": "assets/ja/audio/texas_poker",
+        "version": 1
+      },
+      "ja_three_trumps": {
+        "fileName": "ja_three_trumps.zip",
+        "md5": "72264cde32811a6569975304e45a2166",
+        "fileCount": 26,
+        "path": "assets/ja/audio/three_trumps",
+        "version": 1
+      },
+      "ja_win_three_cards": {
+        "fileName": "ja_win_three_cards.zip",
+        "md5": "2c9ee71e39ed000419095f56f2db28ce",
+        "fileCount": 38,
+        "path": "assets/ja/audio/win_three_cards",
+        "version": 1
+      },
+      "tc_andarbahar": {
+        "fileName": "tc_andarbahar.zip",
+        "md5": "cb28c1cac759fc3cc418154e268eddd4",
+        "fileCount": 2,
+        "path": "assets/tc/audio/andarbahar",
+        "version": 1
+      },
+      "tc_blackjack": {
+        "fileName": "tc_blackjack.zip",
+        "md5": "80fae3fd4a218b33cbc58e4a6366f97e",
+        "fileCount": 47,
+        "path": "assets/tc/audio/blackjack",
+        "version": 1
+      },
+      "tc_bull_fight": {
+        "fileName": "tc_bull_fight.zip",
+        "md5": "0440dc8f8f59465aa5a9602a2a5be324",
+        "fileCount": 18,
+        "path": "assets/tc/audio/bull_fight",
+        "version": 1
+      },
+      "tc_colordisc": {
+        "fileName": "tc_colordisc.zip",
+        "md5": "d9082e3ea352338e97b275e0f3be2bdd",
+        "fileCount": 10,
+        "path": "assets/tc/audio/colordisc",
+        "version": 1
+      },
+      "tc_dolly": {
+        "fileName": "tc_dolly.zip",
+        "md5": "970e0a5a941ad6cb67dbb4c8563a26d5",
+        "fileCount": 25,
+        "path": "assets/tc/audio/dolly",
+        "version": 1
+      },
+      "tc_dragon_tiger": {
+        "fileName": "tc_dragon_tiger.zip",
+        "md5": "29b748140ff7bc170d20250e522e3675",
+        "fileCount": 19,
+        "path": "assets/tc/audio/dragon_tiger",
+        "version": 1
+      },
+      "tc_fantan": {
+        "fileName": "tc_fantan.zip",
+        "md5": "56def730d185371160f2d1a0318685c0",
+        "fileCount": 12,
+        "path": "assets/tc/audio/fantan",
+        "version": 1
+      },
+      "tc_game3d": {
+        "fileName": "tc_game3d.zip",
+        "md5": "d325582ad5ff1b2df285249d7f0d54f0",
+        "fileCount": 10,
+        "path": "assets/tc/audio/game3d",
+        "version": 1
+      },
+      "tc_game5d": {
+        "fileName": "tc_game5d.zip",
+        "md5": "d325582ad5ff1b2df285249d7f0d54f0",
+        "fileCount": 10,
+        "path": "assets/tc/audio/game5d",
+        "version": 1
+      },
+      "tc_india_threecards": {
+        "fileName": "tc_india_threecards.zip",
+        "md5": "c5ebc7e8f4ce121d10a2e069e39481d9",
+        "fileCount": 14,
+        "path": "assets/tc/audio/india_threecards",
+        "version": 1
+      },
+      "tc_marksix": {
+        "fileName": "tc_marksix.zip",
+        "md5": "67fabcbe106a6dcd26409d4e86ace175",
+        "fileCount": 45,
+        "path": "assets/tc/audio/marksix",
+        "version": 1
+      },
+      "tc_paigow": {
+        "fileName": "tc_paigow.zip",
+        "md5": "2f6d82e6a048d913cd49f5fc11617a43",
+        "fileCount": 6,
+        "path": "assets/tc/audio/paigow",
+        "version": 1
+      },
+      "tc_roulette": {
+        "fileName": "tc_roulette.zip",
+        "md5": "8f65092e8f130bb81b052d9bc0b7730d",
+        "fileCount": 49,
+        "path": "assets/tc/audio/roulette",
+        "version": 1
+      },
+      "tc_sicbo": {
+        "fileName": "tc_sicbo.zip",
+        "md5": "4c7cfaa6e8deddf8170f5d13cfd7efff",
+        "fileCount": 29,
+        "path": "assets/tc/audio/sicbo",
+        "version": 1
+      },
+      "tc_texas_poker": {
+        "fileName": "tc_texas_poker.zip",
+        "md5": "92bfa61fe61e74260c67fd6d5ed259ac",
+        "fileCount": 16,
+        "path": "assets/tc/audio/texas_poker",
+        "version": 1
+      },
+      "tc_three_trumps": {
+        "fileName": "tc_three_trumps.zip",
+        "md5": "9fdc69189a0d85a2b8f6c0c232ec3dbb",
+        "fileCount": 24,
+        "path": "assets/tc/audio/three_trumps",
+        "version": 1
+      },
+      "tc_win_three_cards": {
+        "fileName": "tc_win_three_cards.zip",
+        "md5": "be6e8a3dfdeecad7c612bb275eadba8e",
+        "fileCount": 37,
+        "path": "assets/tc/audio/win_three_cards",
+        "version": 1
+      },
+      "th_andarbahar": {
+        "fileName": "th_andarbahar.zip",
+        "md5": "32e32daed6c5d6e1435bc26aa7cceb95",
+        "fileCount": 2,
+        "path": "assets/th/audio/andarbahar",
+        "version": 1
+      },
+      "th_blackjack": {
+        "fileName": "th_blackjack.zip",
+        "md5": "30239772b3e6a3ad58480cfe8dc75f9a",
+        "fileCount": 47,
+        "path": "assets/th/audio/blackjack",
+        "version": 1
+      },
+      "th_bull_fight": {
+        "fileName": "th_bull_fight.zip",
+        "md5": "bd2416ab219343c202c9236ef063ef64",
+        "fileCount": 18,
+        "path": "assets/th/audio/bull_fight",
+        "version": 1
+      },
+      "th_colordisc": {
+        "fileName": "th_colordisc.zip",
+        "md5": "7799429e6b3aa2d4175e98cf3de6beb1",
+        "fileCount": 10,
+        "path": "assets/th/audio/colordisc",
+        "version": 1
+      },
+      "th_dolly": {
+        "fileName": "th_dolly.zip",
+        "md5": "bac88b3757af283527fbff35d1536e9d",
+        "fileCount": 25,
+        "path": "assets/th/audio/dolly",
+        "version": 1
+      },
+      "th_dragon_tiger": {
+        "fileName": "th_dragon_tiger.zip",
+        "md5": "80ecd289ff078293513568fde8677db4",
+        "fileCount": 19,
+        "path": "assets/th/audio/dragon_tiger",
+        "version": 1
+      },
+      "th_fantan": {
+        "fileName": "th_fantan.zip",
+        "md5": "bba853109d3fb85b2674b380b275515e",
+        "fileCount": 12,
+        "path": "assets/th/audio/fantan",
+        "version": 1
+      },
+      "th_game3d": {
+        "fileName": "th_game3d.zip",
+        "md5": "90d1017e40ac59a56c64602201220405",
+        "fileCount": 10,
+        "path": "assets/th/audio/game3d",
+        "version": 1
+      },
+      "th_game5d": {
+        "fileName": "th_game5d.zip",
+        "md5": "90d1017e40ac59a56c64602201220405",
+        "fileCount": 10,
+        "path": "assets/th/audio/game5d",
+        "version": 1
+      },
+      "th_india_threecards": {
+        "fileName": "th_india_threecards.zip",
+        "md5": "9053b536def2ac4b82752305103d8f59",
+        "fileCount": 14,
+        "path": "assets/th/audio/india_threecards",
+        "version": 1
+      },
+      "th_marksix": {
+        "fileName": "th_marksix.zip",
+        "md5": "cbe0a9118a65b9e309e1f0592dc35bab",
+        "fileCount": 55,
+        "path": "assets/th/audio/marksix",
+        "version": 1
+      },
+      "th_paigow": {
+        "fileName": "th_paigow.zip",
+        "md5": "9905271fd234597506c3f65debde6ad1",
+        "fileCount": 6,
+        "path": "assets/th/audio/paigow",
+        "version": 1
+      },
+      "th_roulette": {
+        "fileName": "th_roulette.zip",
+        "md5": "83b992a93931de337605909c779d6734",
+        "fileCount": 49,
+        "path": "assets/th/audio/roulette",
+        "version": 1
+      },
+      "th_sicbo": {
+        "fileName": "th_sicbo.zip",
+        "md5": "4c9d971260984f9bc2b67d193bd577dc",
+        "fileCount": 29,
+        "path": "assets/th/audio/sicbo",
+        "version": 1
+      },
+      "th_texas_poker": {
+        "fileName": "th_texas_poker.zip",
+        "md5": "596004a6c0335f63851790b6058c452d",
+        "fileCount": 16,
+        "path": "assets/th/audio/texas_poker",
+        "version": 1
+      },
+      "th_three_trumps": {
+        "fileName": "th_three_trumps.zip",
+        "md5": "cb774a599d36a4a920756170b6156bc6",
+        "fileCount": 24,
+        "path": "assets/th/audio/three_trumps",
+        "version": 1
+      },
+      "th_win_three_cards": {
+        "fileName": "th_win_three_cards.zip",
+        "md5": "f85cbb5b7d863e4c59fb9a1a9fd05304",
+        "fileCount": 37,
+        "path": "assets/th/audio/win_three_cards",
+        "version": 1
+      },
+      "vi_andarbahar": {
+        "fileName": "vi_andarbahar.zip",
+        "md5": "871a9a2f0cea3e8b8676de8820637d14",
+        "fileCount": 2,
+        "path": "assets/vi/audio/andarbahar",
+        "version": 1
+      },
+      "vi_blackjack": {
+        "fileName": "vi_blackjack.zip",
+        "md5": "fb04138464bea891435a4658b66b0dae",
+        "fileCount": 47,
+        "path": "assets/vi/audio/blackjack",
+        "version": 1
+      },
+      "vi_bull_fight": {
+        "fileName": "vi_bull_fight.zip",
+        "md5": "cb888067b627fd7882e693b84c6f708b",
+        "fileCount": 18,
+        "path": "assets/vi/audio/bull_fight",
+        "version": 1
+      },
+      "vi_colordisc": {
+        "fileName": "vi_colordisc.zip",
+        "md5": "cdc15534e3b5857bcb361366f1b6360c",
+        "fileCount": 10,
+        "path": "assets/vi/audio/colordisc",
+        "version": 1
+      },
+      "vi_dolly": {
+        "fileName": "vi_dolly.zip",
+        "md5": "fc6c35e33ade50b53cb56ad3f160c389",
+        "fileCount": 25,
+        "path": "assets/vi/audio/dolly",
+        "version": 1
+      },
+      "vi_dragon_tiger": {
+        "fileName": "vi_dragon_tiger.zip",
+        "md5": "d698c3b5968713f8ebe4489e8aeda1b7",
+        "fileCount": 19,
+        "path": "assets/vi/audio/dragon_tiger",
+        "version": 1
+      },
+      "vi_fantan": {
+        "fileName": "vi_fantan.zip",
+        "md5": "27eb7862918c76f93d8f5f1a13a70acc",
+        "fileCount": 12,
+        "path": "assets/vi/audio/fantan",
+        "version": 1
+      },
+      "vi_game3d": {
+        "fileName": "vi_game3d.zip",
+        "md5": "2883d70160263d0ca3d285b65fbb4e4a",
+        "fileCount": 10,
+        "path": "assets/vi/audio/game3d",
+        "version": 1
+      },
+      "vi_game5d": {
+        "fileName": "vi_game5d.zip",
+        "md5": "2883d70160263d0ca3d285b65fbb4e4a",
+        "fileCount": 10,
+        "path": "assets/vi/audio/game5d",
+        "version": 1
+      },
+      "vi_india_threecards": {
+        "fileName": "vi_india_threecards.zip",
+        "md5": "b9bf2e8cb7d31f6226956c08d814aec6",
+        "fileCount": 14,
+        "path": "assets/vi/audio/india_threecards",
+        "version": 1
+      },
+      "vi_marksix": {
+        "fileName": "vi_marksix.zip",
+        "md5": "a1cf687ba52be55ee6ab05aa0703a804",
+        "fileCount": 55,
+        "path": "assets/vi/audio/marksix",
+        "version": 1
+      },
+      "vi_paigow": {
+        "fileName": "vi_paigow.zip",
+        "md5": "a2cc0b8d59de363c3e831dc97f6c480f",
+        "fileCount": 6,
+        "path": "assets/vi/audio/paigow",
+        "version": 1
+      },
+      "vi_roulette": {
+        "fileName": "vi_roulette.zip",
+        "md5": "2b23a382db8293fc716a78d3bd7285ba",
+        "fileCount": 26,
+        "path": "assets/vi/audio/roulette",
+        "version": 1
+      },
+      "vi_sicbo": {
+        "fileName": "vi_sicbo.zip",
+        "md5": "f204cf20150c21df9cab782685711e15",
+        "fileCount": 29,
+        "path": "assets/vi/audio/sicbo",
+        "version": 1
+      },
+      "vi_texas_poker": {
+        "fileName": "vi_texas_poker.zip",
+        "md5": "0970e300ca541c4d16d8b55c786abab0",
+        "fileCount": 16,
+        "path": "assets/vi/audio/texas_poker",
+        "version": 1
+      },
+      "vi_three_trumps": {
+        "fileName": "vi_three_trumps.zip",
+        "md5": "8b6061c6a239992612b5bac029d4ac78",
+        "fileCount": 24,
+        "path": "assets/vi/audio/three_trumps",
+        "version": 1
+      },
+      "vi_win_three_cards": {
+        "fileName": "vi_win_three_cards.zip",
+        "md5": "cfec3025804b0ba5cae614a92535d175",
+        "fileCount": 38,
+        "path": "assets/vi/audio/win_three_cards",
+        "version": 1
+      },
+      "font": {
+        "fileName": "font.zip",
+        "md5": "a8b0044dc294b70d13fae9627e9aedd0",
+        "fileCount": 1,
+        "path": "assets/common/font",
+        "version": 1
+      },
+      "gift": {
+        "fileName": "gift.zip",
+        "md5": "f7d01dd1578abd0206b9e57ad17b17b0",
+        "fileCount": 20,
+        "path": "assets/common/gift",
+        "version": 1
+      },
+      "image": {
+        "fileName": "image.zip",
+        "md5": "2d3ff8e9c2b3db61e1df68b5a9e17002",
+        "fileCount": 1552,
+        "path": "assets/common/image",
+        "version": 1
+      },
+      "lottie": {
+        "fileName": "lottie.zip",
+        "md5": "fd74991dbba9e1e7c62392de24d094f3",
+        "fileCount": 411,
+        "path": "assets/common/lottie",
+        "version": 1
+      }
+    }
+  }
+}
